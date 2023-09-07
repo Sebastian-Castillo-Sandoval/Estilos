@@ -4,6 +4,7 @@ h1{
     background-color: black;
     text-align: left;
     margin: 3px;
+    padding: 5px;
     }
 .titulo{
     font-family: Arial, Helvetica, sans-serif;
@@ -16,6 +17,7 @@ h2{
     font-style: italic;
     font-weight: 50;
     margin: 3px;
+    padding: 5px;
     }
 h3{
     color:black;
@@ -24,4 +26,5 @@ h3{
     text-decoration:underline;
     font-weight: normal;
     margin: 3px;
+    padding: 5px;
 }
